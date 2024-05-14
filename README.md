@@ -1,5 +1,7 @@
 # Hi there 👋
-#### I'm Guilherme, a software engineer at <a href="https://www.demandanet.com/">Demandanet</a> working with PHP and JS, but currently studying a large variety of technologies. Besides my 7 months professional experience, i'm also pursuing a degree of System Development at @Fatec in Brazil. 
+I'm Guilherme, a software engineer at <a href="https://www.demandanet.com/">Demandanet</a> and a tech enthusiast.
+
+Over 3 years on development and learning experience (currently 7 months professionally) and aiming for a tech leading position in a near future.
 
 <!--
 **Gsaudx/Gsaudx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
