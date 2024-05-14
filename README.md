@@ -8,5 +8,4 @@ You can check my carreer path through my <a href="https://www.linkedin.com/in/gu
 And here are the technologies i'm currently working with:
 
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=mysql,aws,docker)](https://skillicons.dev)
