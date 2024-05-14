@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm Guilherme, a software engineer working with PHP and JS, but currently studying a large variety of technologies. Besides my 7 months professional experience, i'm also pursuing a degree of System Development at @Fatec in Brazil. 
+# Hi there 👋
+### I'm Guilherme, a software engineer working with PHP and JS, but currently studying a large variety of technologies. Besides my 7 months professional experience, i'm also pursuing a degree of System Development at @Fatec in Brazil. 
 
 <!--
 **Gsaudx/Gsaudx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
