@@ -3,7 +3,7 @@ I'm Guilherme, a software engineer at <a href="https://www.demandanet.com/">Dema
 
 Actually with over 3 years of experience on development and learning (currently 7 months professionally) and aiming for a tech lead position in a near future.
 
-You can check my carreer path through my <a href="https://www.linkedin.com/in/guilherme-saud/">LinkedIn profile</a>
+You can check my carreer path and contact me through my <a href="https://www.linkedin.com/in/guilherme-saud/">LinkedIn profile</a>
 
 And here are the technologies i'm currently working with:
 
