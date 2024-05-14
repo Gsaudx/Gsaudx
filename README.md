@@ -6,4 +6,5 @@ Over 3 years on development and learning experience (currently 7 months professi
 You can check my carreer path through my <a href="https://www.linkedin.com/in/guilherme-saud/">LinkedIn profile</a>
 
 And here are the technologies i'm currently working with:
+
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql,aws,docker)](https://skillicons.dev)
