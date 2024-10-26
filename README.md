@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Guilherme, a software engineer at <a href="https://www.demandanet.com/">Demandanet</a> and a tech enthusiast.
 
-Actually with over 3 years of experience on development and learning (currently 7 months professionally) and aiming for a tech lead position in a near future.
+Actually with over 3 years of experience on development and learning (currently +1 year professionally) and aiming for a tech lead position in a near future.
 
 You can check my carreer path and contact me through my <a href="https://www.linkedin.com/in/guilherme-saud/">LinkedIn profile</a>
 
