@@ -12,4 +12,4 @@ Here are the technologies i'm currently working with:
 
 And besides those, i also have some experience with the followings:
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,py,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs)](https://skillicons.dev)
