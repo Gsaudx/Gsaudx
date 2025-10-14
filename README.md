@@ -23,7 +23,7 @@ My goal is to take on a **Tech Lead** position to continue mentoring developers 
 [![My Skills](https://skillicons.dev/icons?i=php,js,ts,nodejs,express)](https://skillicons.dev)
 
 **Databases & Cloud**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker)](https://skillicons.dev)
 
 **Development Practices**  
 - MVC Architecture & SOLID Principles  
