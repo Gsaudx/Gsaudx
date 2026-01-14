@@ -43,6 +43,6 @@ My goal is to take on a **Tech Lead** position to continue mentoring developers 
 
 ## 🌐 Connect with Me  
 
-📫 Email: [gsaud1008@gmail.com](mailto:gsaud1008@gmail.com)  
+📫 Email: [swe@gmail.com](mailto:swe@gsaud.com)  
 💼 LinkedIn: [linkedin.com/in/guilherme-saud](https://www.linkedin.com/in/guilherme-saud/)  
 🐙 GitHub: [github.com/Gsaudx](https://github.com/Gsaudx)
